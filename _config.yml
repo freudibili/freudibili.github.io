@@ -1,0 +1,7 @@
+title: "ReelToDo"
+description: "Site config for the ReelToDo privacy policy."
+url: "https://freudibili.github.io" # Base site URL used to build absolute links
+baseurl: "" # Keep empty for GitHub Pages at the root
+
+# Direct link to the ReelToDo Privacy Policy (English)
+privacy_policy_url: "https://freudibili.github.io/reeltodo/privacy-policy"
