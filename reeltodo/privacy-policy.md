@@ -36,6 +36,7 @@ ReelToDo is committed to protecting your privacy. This policy describes what inf
 ## Your choices
 - You can delete to-do content directly in the app at any time.
 - You can adjust device permissions (notifications, storage, etc.) in your system settings.
+- You can follow our [data deletion instructions](/reeltodo/data-deletion) for a step-by-step guide.
 - You can contact us to request deletion of support communications that include your personal information.
 
 ## Children

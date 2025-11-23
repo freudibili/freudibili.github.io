@@ -5,3 +5,6 @@ baseurl: "" # Keep empty for GitHub Pages at the root
 
 # Direct link to the ReelToDo Privacy Policy (English)
 privacy_policy_url: "https://freudibili.github.io/reeltodo/privacy-policy"
+
+# Direct link to ReelToDo data deletion instructions
+data_deletion_url: "https://freudibili.github.io/reeltodo/data-deletion"
